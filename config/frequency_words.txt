@@ -1,8 +1,3 @@
-华为
-鸿蒙
-HarmonyOS
-任正非
-
 特斯拉
 马斯克
 
@@ -15,6 +10,8 @@ NVIDIA
 
 苹果
 AAPL
+iphone
+销量
 !水果
 
 AMD
@@ -30,18 +27,6 @@ google
 gemini
 deepmind
 
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
@@ -51,8 +36,7 @@ ai
 机器人
 人形机器人
 
-国产
-中国
+国产替代
 
 芯片
 光刻机
@@ -65,9 +49,9 @@ ai
 
 新质生产力
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+纳斯达克
+
+存储
+
+区块链
+比特币
